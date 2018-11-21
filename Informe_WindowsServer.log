@@ -1,0 +1,476 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  21 NOV 2018 18:16
+entering extended mode
+**./Informe_WindowsServer.tex
+(Informe_WindowsServer.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.s
+ty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.s
+ty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
+ty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
+fg"))
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.s
+ty"
+Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count91
+\multirow@dima=\skip44
+\bigstrutjot=\dimen111
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+) (Informe_WindowsServer.aux (Documentos/Introduccion.aux)
+(Documentos/Objetivos.aux) (Documentos/Marco_Teorico.aux)
+(Documentos/Desarrollo.aux) (Documentos/Conclusiones.aux)
+(Documentos/Bibliografia.aux))
+\openout1 = `Informe_WindowsServer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<Imagenes/upt-logo.png, id=1, 70.6275pt x 95.265pt>
+File: Imagenes/upt-logo.png Graphic file (type png)
+<use Imagenes/upt-logo.png>
+Package pdftex.def Info: Imagenes/upt-logo.png  used on input line 16.
+(pdftex.def)             Requested size: 113.81102pt x 153.5173pt.
+ [1
+
+{C:/Users/Juan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes/u
+pt-logo.png>] (Informe_WindowsServer.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `Informe_WindowsServer.toc'.
+
+ [1]
+\openout2 = `Documentos/Introduccion.aux'.
+
+
+(Documentos/Introduccion.tex) [2
+
+]
+\openout2 = `Documentos/Objetivos.aux'.
+
+ (Documentos/Objetivos.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--57
+
+ []
+
+[3
+
+
+]
+\openout2 = `Documentos/Marco_Teorico.aux'.
+
+ (Documentos/Marco_Teorico.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 12--58
+
+ []
+
+[4
+
+
+]
+\openout2 = `Documentos/Desarrollo.aux'.
+
+ (Documentos/Desarrollo.tex
+<Imagenes/Windows_Education.png, id=22, 486.618pt x 105.39375pt>
+File: Imagenes/Windows_Education.png Graphic file (type png)
+<use Imagenes/Windows_Education.png>
+Package pdftex.def Info: Imagenes/Windows_Education.png  used on input line 7.
+(pdftex.def)             Requested size: 426.79134pt x 92.4396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+<Imagenes/Activar_Caracteristicas.png, id=23, 293.29575pt x 155.3805pt>
+File: Imagenes/Activar_Caracteristicas.png Graphic file (type png)
+<use Imagenes/Activar_Caracteristicas.png>
+Package pdftex.def Info: Imagenes/Activar_Caracteristicas.png  used on input li
+ne 12.
+(pdftex.def)             Requested size: 426.79134pt x 226.11151pt.
+[5
+
+
+ <./Imagenes/Windows_Education.png> <./Imagenes/Activar_Caracteristicas.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+<Imagenes/Activar_Hyper_V.png, id=27, 331.83975pt x 291.489pt>
+File: Imagenes/Activar_Hyper_V.png Graphic file (type png)
+<use Imagenes/Activar_Hyper_V.png>
+Package pdftex.def Info: Imagenes/Activar_Hyper_V.png  used on input line 18.
+(pdftex.def)             Requested size: 312.9803pt x 274.94261pt.
+<Imagenes/Reiniciar.png, id=28, 455.301pt x 372.1905pt>
+File: Imagenes/Reiniciar.png Graphic file (type png)
+<use Imagenes/Reiniciar.png>
+Package pdftex.def Info: Imagenes/Reiniciar.png  used on input line 23.
+(pdftex.def)             Requested size: 312.9803pt x 255.85762pt.
+[6 <./Imagenes/Activar_Hyper_V.png> <./Imagenes/Reiniciar.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+<Imagenes/Hyper_V.png, id=33, 711.25725pt x 539.616pt>
+File: Imagenes/Hyper_V.png Graphic file (type png)
+<use Imagenes/Hyper_V.png>
+Package pdftex.def Info: Imagenes/Hyper_V.png  used on input line 29.
+(pdftex.def)             Requested size: 398.33858pt x 302.2076pt.
+[7 <./Imagenes/Hyper_V.png>]
+<Imagenes/Nueva_Maquina.png, id=37, 393.8715pt x 331.2375pt>
+File: Imagenes/Nueva_Maquina.png Graphic file (type png)
+<use Imagenes/Nueva_Maquina.png>
+Package pdftex.def Info: Imagenes/Nueva_Maquina.png  used on input line 37.
+(pdftex.def)             Requested size: 312.9803pt x 263.22641pt.
+<Imagenes/Especificar_Nombre_Ruta.png, id=38, 528.17325pt x 406.51875pt>
+File: Imagenes/Especificar_Nombre_Ruta.png Graphic file (type png)
+<use Imagenes/Especificar_Nombre_Ruta.png>
+Package pdftex.def Info: Imagenes/Especificar_Nombre_Ruta.png  used on input li
+ne 42.
+(pdftex.def)             Requested size: 312.9803pt x 240.89848pt.
+ [8 <./Imagenes/Nueva_Maquina.png> <./Imagenes/Especificar_Nombre_Ruta.png>]
+<Imagenes/Especificar_Generacion.png, id=43, 524.55975pt x 407.72325pt>
+File: Imagenes/Especificar_Generacion.png Graphic file (type png)
+<use Imagenes/Especificar_Generacion.png>
+Package pdftex.def Info: Imagenes/Especificar_Generacion.png  used on input lin
+e 48.
+(pdftex.def)             Requested size: 312.9803pt x 243.27957pt.
+<Imagenes/Asignar_Memoria.png, id=44, 525.162pt x 407.121pt>
+File: Imagenes/Asignar_Memoria.png Graphic file (type png)
+<use Imagenes/Asignar_Memoria.png>
+Package pdftex.def Info: Imagenes/Asignar_Memoria.png  used on input line 53.
+(pdftex.def)             Requested size: 312.9803pt x 242.62827pt.
+ [9 <./Imagenes/Especificar_Generacion.png> <./Imagenes/Asignar_Memoria.png>]
+<Imagenes/Conectar_Disco.png, id=50, 527.571pt x 408.3255pt>
+File: Imagenes/Conectar_Disco.png Graphic file (type png)
+<use Imagenes/Conectar_Disco.png>
+Package pdftex.def Info: Imagenes/Conectar_Disco.png  used on input line 59.
+(pdftex.def)             Requested size: 312.9803pt x 242.23705pt.
+<Imagenes/Resumen.png, id=51, 525.162pt x 407.72325pt>
+File: Imagenes/Resumen.png Graphic file (type png)
+<use Imagenes/Resumen.png>
+Package pdftex.def Info: Imagenes/Resumen.png  used on input line 64.
+(pdftex.def)             Requested size: 312.9803pt x 242.98717pt.
+ [10 <./Imagenes/Conectar_Disco.png> <./Imagenes/Resumen.png>]
+<Imagenes/Conectar_WindowsServer.png, id=57, 345.6915pt x 260.77425pt>
+File: Imagenes/Conectar_WindowsServer.png Graphic file (type png)
+<use Imagenes/Conectar_WindowsServer.png>
+Package pdftex.def Info: Imagenes/Conectar_WindowsServer.png  used on input lin
+e 70.
+(pdftex.def)             Requested size: 312.9803pt x 236.09926pt.
+<Imagenes/Iniciar_Virtualizacion.png, id=58, 479.391pt x 372.79276pt>
+File: Imagenes/Iniciar_Virtualizacion.png Graphic file (type png)
+<use Imagenes/Iniciar_Virtualizacion.png>
+Package pdftex.def Info: Imagenes/Iniciar_Virtualizacion.png  used on input lin
+e 75.
+(pdftex.def)             Requested size: 312.9803pt x 243.38751pt.
+ [11 <./Imagenes/Conectar_WindowsServer.png> <./Imagenes/Iniciar_Virtualizacion
+.png>]
+<Imagenes/Elegir_ISO.png, id=64, 564.30824pt x 353.52075pt>
+File: Imagenes/Elegir_ISO.png Graphic file (type png)
+<use Imagenes/Elegir_ISO.png>
+Package pdftex.def Info: Imagenes/Elegir_ISO.png  used on input line 81.
+(pdftex.def)             Requested size: 312.9803pt x 196.07687pt.
+<Imagenes/Instalar_Ahora.png, id=65, 369.7815pt x 273.4215pt>
+File: Imagenes/Instalar_Ahora.png Graphic file (type png)
+<use Imagenes/Instalar_Ahora.png>
+Package pdftex.def Info: Imagenes/Instalar_Ahora.png  used on input line 86.
+(pdftex.def)             Requested size: 312.9803pt x 231.43726pt.
+ [12 <./Imagenes/Elegir_ISO.png> <./Imagenes/Instalar_Ahora.png>]
+<Imagenes/Iniciar_Instalacion.png, id=72, 614.89725pt x 533.5935pt>
+File: Imagenes/Iniciar_Instalacion.png Graphic file (type png)
+<use Imagenes/Iniciar_Instalacion.png>
+Package pdftex.def Info: Imagenes/Iniciar_Instalacion.png  used on input line 9
+2.
+(pdftex.def)             Requested size: 312.9803pt x 271.59985pt.
+<Imagenes/Ingresar_Serial.png, id=73, 383.63326pt x 287.8755pt>
+File: Imagenes/Ingresar_Serial.png Graphic file (type png)
+<use Imagenes/Ingresar_Serial.png>
+Package pdftex.def Info: Imagenes/Ingresar_Serial.png  used on input line 97.
+(pdftex.def)             Requested size: 312.9803pt x 234.86024pt.
+
+[13 <./Imagenes/Iniciar_Instalacion.png> <./Imagenes/Ingresar_Serial.png>]
+<Imagenes/Elegir_Version.png, id=79, 383.031pt x 286.671pt>
+File: Imagenes/Elegir_Version.png Graphic file (type png)
+<use Imagenes/Elegir_Version.png>
+Package pdftex.def Info: Imagenes/Elegir_Version.png  used on input line 103.
+(pdftex.def)             Requested size: 312.9803pt x 234.25812pt.
+<Imagenes/Aceptar_Licencia.png, id=80, 384.83775pt x 285.4665pt>
+File: Imagenes/Aceptar_Licencia.png Graphic file (type png)
+<use Imagenes/Aceptar_Licencia.png>
+Package pdftex.def Info: Imagenes/Aceptar_Licencia.png  used on input line 108.
+
+(pdftex.def)             Requested size: 312.9803pt x 232.17616pt.
+
+[14 <./Imagenes/Elegir_Version.png> <./Imagenes/Aceptar_Licencia.png>]
+<Imagenes/Elegir_Tipo_Instalacion.png, id=86, 384.2355pt x 287.8755pt>
+File: Imagenes/Elegir_Tipo_Instalacion.png Graphic file (type png)
+<use Imagenes/Elegir_Tipo_Instalacion.png>
+Package pdftex.def Info: Imagenes/Elegir_Tipo_Instalacion.png  used on input li
+ne 114.
+(pdftex.def)             Requested size: 312.9803pt x 234.49565pt.
+<Imagenes/Elegir_Disco_Instalacion.png, id=87, 384.2355pt x 288.47775pt>
+File: Imagenes/Elegir_Disco_Instalacion.png Graphic file (type png)
+<use Imagenes/Elegir_Disco_Instalacion.png>
+Package pdftex.def Info: Imagenes/Elegir_Disco_Instalacion.png  used on input l
+ine 119.
+(pdftex.def)             Requested size: 312.9803pt x 234.98624pt.
+ [15 <./Imagenes/Elegir_Tipo_Instalacion.png> <./Imagenes/Elegir_Disco_Instalac
+ion.png>]
+<Imagenes/Proceso_Instalacion.png, id=93, 378.81525pt x 283.65974pt>
+File: Imagenes/Proceso_Instalacion.png Graphic file (type png)
+<use Imagenes/Proceso_Instalacion.png>
+Package pdftex.def Info: Imagenes/Proceso_Instalacion.png  used on input line 1
+25.
+(pdftex.def)             Requested size: 312.9803pt x 234.35977pt.
+<Imagenes/Crear_Clave.png, id=94, 578.16pt x 413.1435pt>
+File: Imagenes/Crear_Clave.png Graphic file (type png)
+<use Imagenes/Crear_Clave.png>
+Package pdftex.def Info: Imagenes/Crear_Clave.png  used on input line 130.
+(pdftex.def)             Requested size: 312.9803pt x 223.64891pt.
+[16 <./Imagenes/Proceso_Instalacion.png> <./Imagenes/Crear_Clave.png>]
+<Imagenes/Identificarse.png, id=100, 362.5545pt x 284.86424pt>
+File: Imagenes/Identificarse.png Graphic file (type png)
+<use Imagenes/Identificarse.png>
+Package pdftex.def Info: Imagenes/Identificarse.png  used on input line 136.
+(pdftex.def)             Requested size: 312.9803pt x 245.92604pt.
+<Imagenes/Escritorio_Windows_Server.png, id=101, 599.23875pt x 504.6855pt>
+File: Imagenes/Escritorio_Windows_Server.png Graphic file (type png)
+<use Imagenes/Escritorio_Windows_Server.png>
+Package pdftex.def Info: Imagenes/Escritorio_Windows_Server.png  used on input 
+line 141.
+(pdftex.def)             Requested size: 312.9803pt x 263.6008pt.
+ [17 <./Imagenes/Identificarse.png> <./Imagenes/Escritorio_Windows_Server.png>]
+)
+\openout2 = `Documentos/Conclusiones.aux'.
+
+
+(Documentos/Conclusiones.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
+
+("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 4--60
+
+ []
+
+[18
+
+
+]
+\openout2 = `Documentos/Bibliografia.aux'.
+
+ (Documentos/Bibliografia.tex) [19
+
+
+] (Informe_WindowsServer.aux
+(Documentos/Introduccion.aux) (Documentos/Objetivos.aux)
+(Documentos/Marco_Teorico.aux) (Documentos/Desarrollo.aux)
+(Documentos/Conclusiones.aux) (Documentos/Bibliografia.aux)) ) 
+Here is how much of TeX's memory you used:
+ 1899 strings out of 492969
+ 32451 string characters out of 3127029
+ 97073 words of memory out of 3000000
+ 5695 multiletter control sequences out of 15000+200000
+ 6844 words of font info for 25 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,4n,25p,632b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Juan/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/U
+sers/Juan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/Juan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><C:/Users/Juan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti12.pfb><C:/Users/Juan/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Informe_WindowsServer.pdf (20 pages, 1716786 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
