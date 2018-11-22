@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  21 NOV 2018 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.16)  21 NOV 2018 23:08
 entering extended mode
 **./Informe_WindowsServer.tex
 (Informe_WindowsServer.tex
@@ -423,11 +423,104 @@ Package pdftex.def Info: Imagenes/Escritorio_Windows_Server.png  used on input
 line 141.
 (pdftex.def)             Requested size: 312.9803pt x 263.6008pt.
  [17 <./Imagenes/Identificarse.png> <./Imagenes/Escritorio_Windows_Server.png>]
-)
+<Imagenes/Configuracion_Host.png, id=107, 508.14844pt x 225.84375pt>
+File: Imagenes/Configuracion_Host.png Graphic file (type png)
+<use Imagenes/Configuracion_Host.png>
+Package pdftex.def Info: Imagenes/Configuracion_Host.png  used on input line 15
+1.
+(pdftex.def)             Requested size: 341.43306pt x 151.75217pt.
+<Imagenes/Web_Descarga_Oracle.png, id=108, 460.119pt x 216.20775pt>
+File: Imagenes/Web_Descarga_Oracle.png Graphic file (type png)
+<use Imagenes/Web_Descarga_Oracle.png>
+Package pdftex.def Info: Imagenes/Web_Descarga_Oracle.png  used on input line 1
+56.
+(pdftex.def)             Requested size: 341.43306pt x 160.44319pt.
+ [18 <./Imagenes/Configuracion_Host.png> <./Imagenes/Web_Descarga_Oracle.png>]
+<Imagenes/Descomprimir.png, id=113, 444.4605pt x 264.99pt>
+File: Imagenes/Descomprimir.png Graphic file (type png)
+<use Imagenes/Descomprimir.png>
+Package pdftex.def Info: Imagenes/Descomprimir.png  used on input line 162.
+(pdftex.def)             Requested size: 341.43306pt x 203.57388pt.
+<Imagenes/Instalador_Universal.png, id=114, 508.90125pt x 221.32687pt>
+File: Imagenes/Instalador_Universal.png Graphic file (type png)
+<use Imagenes/Instalador_Universal.png>
+Package pdftex.def Info: Imagenes/Instalador_Universal.png  used on input line 
+167.
+(pdftex.def)             Requested size: 341.43306pt x 148.4976pt.
+ [19 <./Imagenes/Descomprimir.png> <./Imagenes/Instalador_Universal.png>]
+<Imagenes/Configurar_Actualizaciones.png, id=119, 602.25pt x 451.6875pt>
+File: Imagenes/Configurar_Actualizaciones.png Graphic file (type png)
+<use Imagenes/Configurar_Actualizaciones.png>
+Package pdftex.def Info: Imagenes/Configurar_Actualizaciones.png  used on input
+ line 173.
+(pdftex.def)             Requested size: 341.43306pt x 256.0861pt.
+<Imagenes/Opcion_Crear_Base.png, id=120, 602.25pt x 451.6875pt>
+File: Imagenes/Opcion_Crear_Base.png Graphic file (type png)
+<use Imagenes/Opcion_Crear_Base.png>
+Package pdftex.def Info: Imagenes/Opcion_Crear_Base.png  used on input line 178
+.
+(pdftex.def)             Requested size: 341.43306pt x 256.0861pt.
+ [20 <./Imagenes/Configurar_Actualizaciones.png> <./Imagenes/Opcion_Crear_Base.
+png>]
+<Imagenes/Opcion_Crear_Escritorio.png, id=124, 602.25pt x 451.6875pt>
+File: Imagenes/Opcion_Crear_Escritorio.png Graphic file (type png)
+<use Imagenes/Opcion_Crear_Escritorio.png>
+Package pdftex.def Info: Imagenes/Opcion_Crear_Escritorio.png  used on input li
+ne 184.
+(pdftex.def)             Requested size: 312.9803pt x 234.741pt.
+<Imagenes/Instalacion_Tipica.png, id=125, 602.25pt x 451.6875pt>
+File: Imagenes/Instalacion_Tipica.png Graphic file (type png)
+<use Imagenes/Instalacion_Tipica.png>
+Package pdftex.def Info: Imagenes/Instalacion_Tipica.png  used on input line 19
+7.
+(pdftex.def)             Requested size: 312.9803pt x 234.741pt.
+ [21 <./Imagenes/Opcion_Crear_Escritorio.png> <./Imagenes/Instalacion_Tipica.pn
+g>]
+<Imagenes/Resumen_Instalacion.png, id=129, 602.25pt x 451.6875pt>
+File: Imagenes/Resumen_Instalacion.png Graphic file (type png)
+<use Imagenes/Resumen_Instalacion.png>
+Package pdftex.def Info: Imagenes/Resumen_Instalacion.png  used on input line 2
+03.
+(pdftex.def)             Requested size: 341.43306pt x 256.0861pt.
+<Imagenes/Proceso_Instalacion_Oracle.png, id=130, 602.25pt x 451.6875pt>
+File: Imagenes/Proceso_Instalacion_Oracle.png Graphic file (type png)
+<use Imagenes/Proceso_Instalacion_Oracle.png>
+Package pdftex.def Info: Imagenes/Proceso_Instalacion_Oracle.png  used on input
+ line 208.
+(pdftex.def)             Requested size: 341.43306pt x 256.0861pt.
+
+[22 <./Imagenes/Resumen_Instalacion.png> <./Imagenes/Proceso_Instalacion_Oracle
+.png>]
+<Imagenes/Asistente_Configuracion.png, id=134, 466.74374pt x 327.47343pt>
+File: Imagenes/Asistente_Configuracion.png Graphic file (type png)
+<use Imagenes/Asistente_Configuracion.png>
+Package pdftex.def Info: Imagenes/Asistente_Configuracion.png  used on input li
+ne 214.
+(pdftex.def)             Requested size: 341.43306pt x 239.5633pt.
+<Imagenes/Gestion_Contrasenas.png, id=135, 532.99126pt x 440.39531pt>
+File: Imagenes/Gestion_Contrasenas.png Graphic file (type png)
+<use Imagenes/Gestion_Contrasenas.png>
+Package pdftex.def Info: Imagenes/Gestion_Contrasenas.png  used on input line 2
+19.
+(pdftex.def)             Requested size: 341.43306pt x 282.12082pt.
+ [23 <./Imagenes/Asistente_Configuracion.png> <./Imagenes/Gestion_Contrasenas.p
+ng>]
+<Imagenes/Instalacion_Correcta.png, id=139, 602.25pt x 451.6875pt>
+File: Imagenes/Instalacion_Correcta.png Graphic file (type png)
+<use Imagenes/Instalacion_Correcta.png>
+Package pdftex.def Info: Imagenes/Instalacion_Correcta.png  used on input line 
+225.
+(pdftex.def)             Requested size: 341.43306pt x 256.0861pt.
+<Imagenes/Oracle_Data_Base.png, id=140, 679.338pt x 416.15475pt>
+File: Imagenes/Oracle_Data_Base.png Graphic file (type png)
+<use Imagenes/Oracle_Data_Base.png>
+Package pdftex.def Info: Imagenes/Oracle_Data_Base.png  used on input line 230.
+
+(pdftex.def)             Requested size: 426.79134pt x 261.45497pt.
+ [24 <./Imagenes/Instalacion_Correcta.png> <./Imagenes/Oracle_Data_Base.png>])
 \openout2 = `Documentos/Conclusiones.aux'.
 
-
-(Documentos/Conclusiones.tex
+ (Documentos/Conclusiones.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
 
 ("C:\Users\Juan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -440,13 +533,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--60
 
  []
 
-[18
+[25
 
 
 ]
 \openout2 = `Documentos/Bibliografia.aux'.
 
- (Documentos/Bibliografia.tex) [19
+ (Documentos/Bibliografia.tex) [26
 
 
 ] (Informe_WindowsServer.aux
@@ -454,10 +547,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--60
 (Documentos/Marco_Teorico.aux) (Documentos/Desarrollo.aux)
 (Documentos/Conclusiones.aux) (Documentos/Bibliografia.aux)) ) 
 Here is how much of TeX's memory you used:
- 1899 strings out of 492969
- 32451 string characters out of 3127029
+ 1969 strings out of 492969
+ 34881 string characters out of 3127029
  97073 words of memory out of 3000000
- 5695 multiletter control sequences out of 15000+200000
+ 5751 multiletter control sequences out of 15000+200000
  6844 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,4n,25p,632b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -468,9 +561,9 @@ sers/Juan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 nts/cm/cmsy10.pfb><C:/Users/Juan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb><C:/Users/Juan/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Informe_WindowsServer.pdf (20 pages, 1716786 bytes).
+Output written on Informe_WindowsServer.pdf (27 pages, 2139602 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
+ 171 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

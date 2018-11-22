@@ -141,3 +141,92 @@
   \includegraphics[width=11cm]{Imagenes/Escritorio_Windows_Server.png}
 \end{center}
 \break
+
+\subsection{PARTE III: Instalación Windows Server 2016}
+
+\textbf {4.3.1. Configuración antes de la Instalación:} Como primer paso configuraremos el archivo host que se encuentra en el Disco Local C
+Usar las líneas 1 a 3 cuando se está utilizando una dirección IP de DHCP, y las líneas 1 a 4 cuando se está usando una dirección IP estática.  El nombre de hosts debe estar en minúscula. \\
+Crear una cuenta de usuario  que no tenga espacio en blanco en el nombre por ejemplo jsequeiros, y conceder los privilegios de Administrador.
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Configuracion_Host.png}
+\end{center}
+
+\textbf {4.3.2. Descargar el Instalador de Oracle Database:} Luego de la configuración del archivo hosts pasaremos a descargar nuestro Instalador, pasa eso nos dirigiremos a la pagina de www.oracle.com y descargaremos el Oracle Database para Microsoft Windows x64 (64-bit).
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Web_Descarga_Oracle.png}
+\end{center}
+\break
+
+\textbf {4.3.3. Descomprimir el Instalador:} Luego de descargar el Instalador, pasaremos a descomprimirlo, luego de hacerlo nos quedará de la siguiente forma:
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Descomprimir.png}
+\end{center}
+
+\textbf {4.3.4. Descomprimir el Instalador:} Dentro de la carpeta de instalación, ejecutar el archivo setup.exe y se abrirá la ventana del  Oracle Universal Installer, que puede permanecer unos segundos.
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Instalador_Universal.png}
+\end{center}
+\break
+
+\textbf {4.3.5. Configurar Actualizaciones:} En la siguiente pantalla pide proporcionar una dirección de correo electrónico para recibir información sobre los problemas de seguridad.  En este caso desactivamos la casilla de recibir actualizaciones de seguridad a través del soporte de Oracle.  Saldrá una ventana de notificación indicando que no se ha ingresado ninguna dirección de correo electrónico.  Clic en el botón si para continuar con la instalación.
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Configurar_Actualizaciones.png}
+\end{center}
+
+\textbf {4.3.6. Crear Base de datos:} Elegiremos la opción de Crear y Configurar Base de Datos y le daremos clic en Siguiente.
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Opcion_Crear_Base.png}
+\end{center}
+\break
+
+\textbf {4.3.7. Clase Escritorio:} Seleccionar "Clase de Escritorio", que es una instalación bastante más sencilla pues el asistente pedirá una configuración mínima y el resto de parámetros avanzados los establecerá de forma automática. Este método es más sencillo de instalar aunque se tendrá menor control sobre la instalación.
+\begin{center}
+  \includegraphics[width=11cm]{Imagenes/Opcion_Crear_Escritorio.png}
+\end{center}
+
+\textbf {4.3.8. Instalación Típica:} A continuación indicaremos los siguientes datos:
+Directorio Base de Oracle: Ubicación del directorio raíz de Oracle
+Ubicación del Software: Destino de los archivos de la instalación de Oracle.
+Ubicación de Archivos de Base de Datos: Ubicación de los archivos de datos que almacenará la base de datos.
+Edición de Base de Datos: Tipo de instalación, a elegir entre "Enterprise Edition", "Standar Edition", "Standard Edition One", "Personal Edition". 
+Juego de Caracteres: Juego de caracteres que se asignará a la base de datos.
+Nombre de la Base de Datos Global: SID que tendrá la base de datos para identificarla unívocamente de otras, por defecto "orcl".
+Contraseña del Administrador: contraseña para el usuario "system" y "sys".
+Confirmar Contraseña y clic en siguiente.
+\begin{center}
+  \includegraphics[width=11cm]{Imagenes/Instalacion_Tipica.png}
+\end{center}
+\break
+
+\textbf {4.3.9. Resumen de la Instalación:} Se iniciará la verificación de los requisitos mínimos por parte del asistente, comprobará si la configuración y el hardware de nuestro equipo cumple con los requisitos mínimos y mostrará la ventana resumen de las opciones seleccionadas para la instalación. Clic en terminar para continuar.
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Resumen_Instalacion.png}
+\end{center}
+
+\textbf {4.3.10. Proceso de Instalación:} Este proceso demorará entre 10 a 15 minutos. El asistente nos mostrará el progreso de la instalación así como las tareas realizadas (instalación de Oracle Database, preparar sistema, copiar archivos, crear archivos de configuración, configurar Oracle Database, crear base de datos)
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Proceso_Instalacion_Oracle.png}
+\end{center}
+\break
+
+\textbf {4.3.11. Asistente de Configuración:} Al final de la instalación de Oracle se iniciará el proceso de creación de la base de datos (copia de archivos, crear e iniciar instancia de oracle):
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Asistente_Configuracion.png}
+\end{center}
+
+\textbf {4.3.12. Gestión de Contraseñas:} El asistente de Configuración de Bases de Datos nos mostrará la ventana desde la que podremos acceder a la gestión de contraseñas de los usuarios y en la que nos mostrará la URL de administración para acceso a Oracle Database Control, por defecto: https:\/\/localhost:1158\/em
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Gestion_Contrasenas.png}
+\end{center}
+\break
+
+\textbf {4.3.13. Asistente de Configuración:} Por último la ventana indicando que la instalación de oracle ha sido correcta.
+\begin{center}
+  \includegraphics[width=12cm]{Imagenes/Instalacion_Correcta.png}
+\end{center}
+
+\textbf {4.3.14. Oracle DataBase:} Y listo, ahora ya podremos acceder a nuestra Base de Datos de Oracle.
+\begin{center}
+  \includegraphics[width=15cm]{Imagenes/Oracle_Data_Base.png}
+\end{center}
+\break
